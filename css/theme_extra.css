@@ -50,11 +50,9 @@
 a code {
     color: #2980B9;
 }
-
 a:hover code {
     color: #3091d1;
 }
-
 a:visited code {
     color: #9B59B6;
 }

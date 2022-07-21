@@ -190,3 +190,17 @@ NHN是一种十分具有前景的含能材料，其性能优异，制备简单�
 在此，我再一次真诚地向所有帮助过我的人表示感谢，是你们的陪伴，使我的人生路上更加精彩。
 
 ### *———— 2022年7月16日*
+
+---
+
+## 其他
+
+联系作者:
+
+- 邮箱: zhaowenrui_8866@163.com
+
+- github项目地址: <https://github.com/flowerfalling/Research-Study---Chemistry>
+
+许可证: [许可证](LICENSE)
+
+网址: <https://research-study-chemistry.vercel.app>
